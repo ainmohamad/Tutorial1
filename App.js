@@ -7,6 +7,8 @@ export default class App extends React.Component {
       <View style={styles.container}>
         <Text>My name is Nur ain mohamad</Text>
         <Text>Matric number: 1620510</Text>
+        <Text>My name is Nur Syarra Shazida bt Mat Zaini</Text>
+        <Text>Matric number: 1627542</Text>
       </View>
     );
   }
